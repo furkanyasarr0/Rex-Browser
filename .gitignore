@@ -29,3 +29,6 @@ coverage/
 *.exe
 *.so
 *.dylib
+# Kütüphane dosyaları
+*.lib
+venv/
