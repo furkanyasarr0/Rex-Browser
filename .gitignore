@@ -1,0 +1,31 @@
+# Build çıktıları
+dist/
+build/
+out/
+# Bağımlılıklar
+node_modules/
+vendor/
+# Geçici dosyalar
+*.log
+*.tmp
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+# Ortam değişkenleri
+.env
+.env.local
+# Diğer
+*.bak
+*.swp
+# Log dosyaları
+logs/
+# Test sonuçları
+coverage/
+# Derleme ve paketleme dosyaları
+*.dll
+*.exe
+*.so
+*.dylib
